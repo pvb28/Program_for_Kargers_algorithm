@@ -1,0 +1,2 @@
+# Program_for_Kargers_algorithm
+Practising
